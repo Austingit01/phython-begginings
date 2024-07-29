@@ -1,0 +1,6 @@
+Firstname = input("What is your first name?" )
+Lastname = input("What is your last name?" )
+State_of_origin = input("What is your state of origin?" )
+Address = input("Where do you live?" )
+Age = int(input("How old are you?" ))
+print("My name is ",Firstname, Lastname,"I am from", State_of_origin,".I live at", Address, "and I am", Age, "years old.")

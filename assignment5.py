@@ -1,0 +1,2 @@
+firstchild, secondchild, thirdchild, fourthchild, fifthchild, sixthchild, seventhchild, eighthchild, ninthchild, tenthchild = "Ada", "Emma", "Efe", "Blessing", "Grace", "Tolu", "Makuo", "Francis", "Paul", "Miriam."
+print(firstchild, secondchild, thirdchild, fourthchild, fifthchild, sixthchild, seventhchild, eighthchild, ninthchild, tenthchild)
